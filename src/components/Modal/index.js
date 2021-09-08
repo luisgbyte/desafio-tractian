@@ -22,7 +22,7 @@ function Modal({ children, isOpen, setIsOpen }) {
             background: "#F0F0F5",
             color: "#000000",
             borderRadius: "0.8rem",
-            width: "25vw",
+            width: "50%",
             border: "none",
           },
           overlay: {
